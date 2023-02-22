@@ -44,6 +44,11 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.tencentcloudapi</groupId>
+            <artifactId>tencentcloud-sdk-java-tbaas</artifactId>
+            <version>3.1.699</version>
+        </dependency>
     </dependencies>
 
     <build>
